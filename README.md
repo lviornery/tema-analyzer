@@ -1,7 +1,9 @@
 # TEMA Visualizer
 
-Full notebook requires Jupyter Lab and Altair
+Library requires pandas version greater than 1.3
 
-library requires pandas version greater than 1.3
+Install using pip3 install tema-analyzer
+
+Install with Jupyter Lab and Altair using pip3 install tema-analyzer[interactive]
 
 Full documentation at https://tema-analyzer.readthedocs.io/en/latest/
