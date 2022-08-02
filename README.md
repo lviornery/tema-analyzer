@@ -2,7 +2,7 @@
 
 Library requires pandas version greater than 1.3
 
-Install using pip3 install tema-analyzer
+Install library using pip3 install tema-analyzer
 
 Install with Jupyter Lab and Altair using pip3 install tema-analyzer[interactive]
 
