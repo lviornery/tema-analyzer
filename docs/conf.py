@@ -14,13 +14,13 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../tema-analyzer'))
+sys.path.insert(0, os.path.abspath('../temaanalyzer'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'tema-analyzer'
-copyright = '2022, Luis Viornery and Taryn Imamura'
+copyright = '2023, Luis Viornery and Taryn Imamura'
 author = 'Luis Viornery and Taryn Imamura'
 
 # The short X.Y version
