@@ -30,6 +30,7 @@ def getConversion(unit):
     elif(unit=='rad'): return ('rad',1)
     elif(unit==chr(176)): return ('rad',math.pi/180)
     elif(unit=='degrees'): return ('rad',math.pi/180)
+    elif(unit=='pixels'): return ('px',1)
     elif(unit=='px'): return ('px',1)
     else: return (unit,1)
 
