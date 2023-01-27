@@ -26,7 +26,7 @@ author = 'Luis Viornery and Taryn Imamura'
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.1.0'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
